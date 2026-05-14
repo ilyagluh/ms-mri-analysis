@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific: ignore large dataset and intermediate files
+SCLEROSIS21_172/
+raw_extracted_data.csv
+extraction_errors.csv
