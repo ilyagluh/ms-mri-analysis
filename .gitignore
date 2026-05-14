@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project specific
+SCLEROSIS21_172/
+raw_extracted_data.csv
+extraction_errors.csv
